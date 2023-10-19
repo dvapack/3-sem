@@ -4,4 +4,4 @@
  <li>Объектно-ориентированное программирование (OOP)</li>
  <li>Python для решения научных задач (PN)</li>
 </ul>
-https://github.com/dvapack/3-sem/assets/67041431/73395dac-3455-4a32-9924-e290d5861598
+![image_2023-09-30_10-48-00](https://github.com/dvapack/3-sem/assets/67041431/47959582-bf5f-418f-aad2-7b58b3c0a037)
