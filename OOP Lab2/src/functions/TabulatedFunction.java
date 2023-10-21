@@ -113,14 +113,9 @@ public class TabulatedFunction
             return 0;
         if (arr[pointsCount - 1].getX() <= x)
             return pointsCount - 1;
-
         int mid;
-        // Возвращает индекс элемента со значением x или -1, если такого элемента не существует
         int low = 0;
         int high = pointsCount - 1;
-
-
-
         while (arr[low].getX() < x && arr[high].getX() > x)
         {
             if (arr[high] == arr[low]) // Защита от деления на 0
@@ -159,5 +154,4 @@ public class TabulatedFunction
         arr = buff_arr;
         ++pointsCount;
     }
-
 }
